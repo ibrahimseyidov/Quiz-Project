@@ -1,0 +1,51 @@
+{
+    "questions": [
+
+        {
+            "question": "Proqramlaşma dillərinin tarixində hansı dildən əvvəl özündə obyekt-orientasiyalı proqramlaşdırma (OOP) mövzusunu dəstəkləməyə başladı?",
+            "a": "C",
+            "b": "Java",
+            "c": "Python",
+            "d": "Pascal",
+            "correctAnswer": "Pascal"
+        },
+
+        {
+            "question": "SQL açılımı nədir və həmin terminin anlamı nədir?",
+            "a": "Structured Query Language; verilənlər bazası əməliyyatlarını icra etmək üçün istifadə olunan bir proqramlaşdırma dilidir.",
+            "b": "Sequential Query Language; birbaşa ardıcıl sorğuların icrası üçün istifadə olunan bir proqramlaşdırma dilidir.",
+            "c": "Standard Query Language; standartlaşdırılmış sorğu dilidir və verilənlər bazası sistemləri ilə əməliyyatlar üçün istifadə olunur.",
+            "d": "Secondary Query Language; verilənlər bazasında yerləşən ikinci səviyyəli sorğuları icra etmək üçün istifadə olunan bir proqramlaşdırma dilidir.",
+            "correctAnswer": "Structured Query Language; verilənlər bazası əməliyyatlarını icra etmək üçün istifadə olunan bir proqramlaşdırma dilidir."
+        },
+
+        {
+            "question": "\"HTML\" açılımı nə deməkdir?",
+            "a": "Hyper Text Markup Language",
+            "b": "Home Tool Management Language",
+            "c": "Hyperlinks and Text Markup Language",
+            "d": "High Tech Markup Language",
+            "correctAnswer": "Hyper Text Markup Language"
+        },
+
+        {
+            "question": "JavaScript dili hansı məqsədlərə xidmət edir?",
+            "a": "Veb səhifələrini dizayn etmək və strukturallaşdırmaq üçün",
+            "b": "İstifadəçi interaksiyalarını tənzimləmək üçün",
+            "c": "Server tərəfindən yaradılan dinamik məlumatı göstərmək üçün",
+            "d": "Həm veb tərəfli, həm də server tərəfli proqramlaşdırma üçün",
+            "correctAnswer": "İstifadəçi interaksiyalarını tənzimləmək üçün"
+        },
+
+        {
+            "question": "\"Python\" proqramlaşdırma dili haqqında doğru olan hansı məlumatdır?",
+            "a": "Python yalnızca Windows əməliyyat sistemlərində işləyir.",
+            "b": "Python ilə yalnızca veb proqramlaşdırma edilə bilər.",
+            "c": "Python bir interpretasiya dildir və açıq mənbəlidir.",
+            "d": "Python yalnız nisbətən kiçik və sadə proqramlar üçün əlverişlidir.",
+            "correctAnswer": "Python bir interpretasiya dildir və açıq mənbəlidir."
+        }
+
+    ]
+
+}
